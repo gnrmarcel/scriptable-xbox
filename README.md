@@ -44,5 +44,11 @@
     > const backgroundImage = 'xxx'
 
     Das Bild muss für ein "Medium" Widget folgende Maße besitzen: 640x293px und sollte nicht mehr als 30-50kb groß sein.
-    Also Beispielbild könnt Ihr gerne unsere InsideXbox.de Datei "xbox-series-x-background-widget.jpg" nutzen.
+    Also Beispielbild könnt Ihr gerne unsere InsideXbox.de Datei "xbox-series-x-background-widget.jpg" nutzen, die wir euch als Beispiel in der Variable "backgroundImage" hinterlegt haben.
 
+## Beispiel iOS Xbox Gamercard Widget
+
+<p align="center">
+  <a href="http://www.insidexbox.de" rel="noopener" target="_blank">
+  <img src="https://raw.githubusercontent.com/gnrmarcel/scriptable-xbox-gamercard/main/xbox-gamercard-beispiel.jpeg" alt="Beispiel iOS Xbox Gamercard Widget"></a>
+</p>

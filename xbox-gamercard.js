@@ -19,7 +19,7 @@
 const apiURL = 'https://xapi.us/v2'
 const apiToken = 'xxx'
 const xboxProfileUserID = 'xxx'
-const backgroundImage = 'xxx'
+const backgroundImage = 'https://raw.githubusercontent.com/gnrmarcel/scriptable-xbox-gamercard/main/xbox-series-x-background-widget.jpg'
 
 
 
