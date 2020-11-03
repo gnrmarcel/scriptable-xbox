@@ -59,7 +59,7 @@ async function createWidget(items) {
     
     // Show gamerscore
     //
-    let gamerscore = w.addText('Gamerscore:' + item.gamerScore)
+    let gamerscore = w.addText('Gamerscore: ' + item.gamerScore)
     gamerscore.font = Font.mediumSystemFont(15)
     gamerscore.textColor = Color.white()
     gamerscore.textOpacity = 0.9
