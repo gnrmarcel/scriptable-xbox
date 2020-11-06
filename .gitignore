@@ -12,3 +12,7 @@
 .ionide
 
 .DS_Store
+
+### Dev Files ###
+xbox-gamercard-dev.js
+xbox-achievements-dev.js
